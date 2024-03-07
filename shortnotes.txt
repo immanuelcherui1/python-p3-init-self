@@ -1,0 +1,24 @@
+        Object Initialization:
+
+__init__ method:
+    It is a magic method that python calls everytime we initialize a new object.
+
+    Magic methods (also called dunder methods due to their double underscores) are special methods that are not meant to be called by developers but are invoked by different cues and operators that act on their objects.
+
+    The __init__ method belongs to every class and is invoked when you initialize a class. It is always executed behind the scenes when no arguments are passed during object initialization.
+
+    __init__ magic method run when an object is instantiated.
+
+    >>>To instantiate means to create an instance or an object of a class in object-oriented programming. When you instantiate a class, you create a specific instance of that class, which can then be used to access its attributes and methods. In simpler terms, instantiation is the process of creating a new instance of a class.
+
+
+self:
+    The self keyword refers to the instance, or object the method is being called on.
+
+    The closest equivalent to self in Python is this in JavaScript.
+
+    
+
+
+
+
